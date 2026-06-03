@@ -1,0 +1,8 @@
+{
+	"folders": [
+	  { "path": "/Users/austindunsworth/Projects/dreams-dashboard" }
+	],
+	"settings": {
+	  "terminal.integrated.cwd": "${workspaceFolder}"
+	}
+  }

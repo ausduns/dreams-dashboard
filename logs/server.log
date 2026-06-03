@@ -1,0 +1,9 @@
+{"time": "2026-06-02 20:31:18.590862-07:00", "level": "INFO", "message": "Starting Claude Code Proxy...", "module": "api.runtime", "function": "startup", "line": 104}
+{"time": "2026-06-02 20:31:18.597101-07:00", "level": "INFO", "message": "GlobalRateLimiter (Provider) initialized (1 req / 3.0s, max_concurrency=5)", "module": "providers.rate_limit", "function": "__init__", "line": 90}
+{"time": "2026-06-02 20:31:19.025186-07:00", "level": "INFO", "message": "Configured provider models validated: models=1 providers=1", "module": "providers.registry", "function": "validate_configured_models", "line": 440}
+{"time": "2026-06-02 20:31:19.025371-07:00", "level": "INFO", "message": "Provider model discovery cache already warm: providers=1", "module": "providers.registry", "function": "start_model_list_refresh", "line": 342}
+{"time": "2026-06-02 20:31:19.055946-07:00", "level": "INFO", "message": "Messaging platform disabled by configuration", "module": "messaging.platforms.factory", "function": "create_messaging_platform", "line": 52}
+{"time": "2026-06-02 20:31:19.056102-07:00", "level": "INFO", "message": "Server URL: http://127.0.0.1:8082", "module": "api.runtime", "function": "startup", "line": 115}
+{"time": "2026-06-02 20:31:19.056159-07:00", "level": "INFO", "message": "Admin UI: http://127.0.0.1:8082/admin (local-only)", "module": "api.runtime", "function": "startup", "line": 116}
+{"time": "2026-06-02 20:31:19.056798-07:00", "level": "INFO", "message": "Shutdown requested, cleaning up...", "module": "api.runtime", "function": "shutdown", "line": 160}
+{"time": "2026-06-02 20:31:19.058149-07:00", "level": "INFO", "message": "Server shut down cleanly", "module": "api.runtime", "function": "shutdown", "line": 180}
