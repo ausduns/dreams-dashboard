@@ -1,0 +1,361 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - button "" [ref=e6] [cursor=pointer]:
+            - generic [ref=e7]: 
+          - text: 
+          - generic [ref=e9]:
+            - textbox "Search Agents or Tools..." [ref=e10]
+            - button " K" [ref=e11] [cursor=pointer]:
+              - generic [ref=e12]: 
+              - text: K
+          - generic [ref=e13]:
+            - link "Dropdown" [ref=e14] [cursor=pointer]:
+              - /url: "#"
+              - text: AI Studio
+              - generic [ref=e15]: 
+            - text:     
+          - generic [ref=e16]:
+            - link "Dropdown" [ref=e17] [cursor=pointer]:
+              - /url: "#"
+              - text: AI Tools
+              - generic [ref=e18]: 
+            - text:     
+        - generic [ref=e19]:
+          - link " Upgrade" [ref=e20] [cursor=pointer]:
+            - /url: pricing.html
+            - generic [ref=e21]: 
+            - text: Upgrade
+          - button "" [ref=e23] [cursor=pointer]:
+            - generic [ref=e24]: 
+          - button "" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27]: 
+          - generic [ref=e28]:
+            - button "" [ref=e29] [cursor=pointer]:
+              - generic [ref=e30]: 
+            - text:            
+          - link "" [ref=e33] [cursor=pointer]:
+            - /url: chat.html
+            - generic [ref=e34]: 
+          - generic [ref=e36]:
+            - link "Dropdown" [ref=e37] [cursor=pointer]:
+              - /url: "#"
+              - img "user-image" [ref=e38]
+            - text:     
+    - complementary "Main navigation":
+      - generic [ref=e40]:
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - link "logo-small" [ref=e44] [cursor=pointer]:
+              - /url: index.html
+              - img "logo-small" [ref=e45]
+            - region "scrollable content" [ref=e50]:
+              - tablist [ref=e52]:
+                - listitem [ref=e53]:
+                  - tab "" [ref=e54] [cursor=pointer]:
+                    - generic [ref=e56]: 
+                  - tab "" [ref=e57] [cursor=pointer]:
+                    - generic [ref=e59]: 
+                - listitem [ref=e60]:
+                  - tab "" [ref=e61] [cursor=pointer]:
+                    - generic [ref=e63]: 
+                  - tab "" [ref=e64] [cursor=pointer]:
+                    - generic [ref=e66]: 
+                  - tab "" [ref=e67] [cursor=pointer]:
+                    - generic [ref=e69]: 
+                  - tab "" [ref=e70] [cursor=pointer]:
+                    - generic [ref=e72]: 
+                - listitem [ref=e73]:
+                  - tab "" [ref=e74] [cursor=pointer]:
+                    - generic [ref=e76]: 
+                  - tab "" [ref=e78] [cursor=pointer]:
+                    - generic [ref=e80]: 
+                  - tab "" [ref=e81] [cursor=pointer]:
+                    - generic [ref=e83]: 
+          - generic [ref=e84]:
+            - link "" [ref=e85] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e86]: 
+            - link "" [ref=e87] [cursor=pointer]:
+              - /url: login.html
+              - generic [ref=e88]: 
+        - generic [ref=e89]:
+          - generic [ref=e90]:
+            - generic [ref=e91]:
+              - link "logo" [ref=e92] [cursor=pointer]:
+                - /url: index.html
+                - img "logo" [ref=e93]
+              - text: 
+            - region "scrollable content" [ref=e98]:
+              - generic [ref=e100]:
+                - list [ref=e102]:
+                  - listitem [ref=e103]: Dashboard
+                  - listitem [ref=e104]:
+                    - link " AI Dashboard" [ref=e105] [cursor=pointer]:
+                      - /url: index.html
+                      - generic [ref=e106]: 
+                      - text: AI Dashboard
+                  - listitem [ref=e107]:
+                    - link " Analytics" [ref=e108] [cursor=pointer]:
+                      - /url: analytics-dashboard.html
+                      - generic [ref=e109]: 
+                      - text: Analytics
+                  - listitem [ref=e110]:
+                    - link " System Overview" [ref=e111] [cursor=pointer]:
+                      - /url: system-dashboard.html
+                      - generic [ref=e112]: 
+                      - text: System Overview
+                  - listitem [ref=e113]:
+                    - link " CRM" [ref=e114] [cursor=pointer]:
+                      - /url: crm-dashboard.html
+                      - generic [ref=e115]: 
+                      - text: CRM
+                  - listitem [ref=e116]:
+                    - link " Ecommerce" [ref=e117] [cursor=pointer]:
+                      - /url: ecommerce-dashboard.html
+                      - generic [ref=e118]: 
+                      - text: Ecommerce
+                  - listitem [ref=e119]:
+                    - link " Project" [ref=e120] [cursor=pointer]:
+                      - /url: project-dashboard.html
+                      - generic [ref=e121]: 
+                      - text: Project
+                  - listitem [ref=e122]:
+                    - link " HRM" [ref=e123] [cursor=pointer]:
+                      - /url: hrm-dashboard.html
+                      - generic [ref=e124]: 
+                      - text: HRM
+                  - listitem [ref=e125]:
+                    - link " Marketing" [ref=e126] [cursor=pointer]:
+                      - /url: marketing-dashboard.html
+                      - generic [ref=e127]: 
+                      - text: Marketing
+                  - listitem [ref=e128]: Apps
+                  - listitem [ref=e129]:
+                    - link " Projects" [ref=e130] [cursor=pointer]:
+                      - /url: projects.html
+                      - generic [ref=e131]: 
+                      - text: Projects
+                  - listitem [ref=e132]:
+                    - link " Chat 3" [ref=e133] [cursor=pointer]:
+                      - /url: chat.html
+                      - generic [ref=e134]: 
+                      - text: Chat
+                      - generic [ref=e135]: "3"
+                  - listitem [ref=e136]:
+                    - link " Calendar" [ref=e137] [cursor=pointer]:
+                      - /url: calendar.html
+                      - generic [ref=e138]: 
+                      - text: Calendar
+                  - listitem [ref=e139]:
+                    - link " Invoices 2" [ref=e140] [cursor=pointer]:
+                      - /url: invoices.html
+                      - generic [ref=e141]: 
+                      - text: Invoices
+                      - generic [ref=e142]: "2"
+                  - listitem [ref=e143]:
+                    - link " File Manager" [ref=e144] [cursor=pointer]:
+                      - /url: file-manager.html
+                      - generic [ref=e145]: 
+                      - text: File Manager
+                  - listitem [ref=e146]:
+                    - link " Notes" [ref=e147] [cursor=pointer]:
+                      - /url: notes.html
+                      - generic [ref=e148]: 
+                      - text: Notes
+                  - listitem [ref=e149]:
+                    - link " To Do 5" [ref=e150] [cursor=pointer]:
+                      - /url: todo.html
+                      - generic [ref=e151]: 
+                      - text: To Do
+                      - generic [ref=e152]: "5"
+                  - listitem [ref=e153]:
+                    - link " Kanban Board" [ref=e154] [cursor=pointer]:
+                      - /url: kanban-board.html
+                      - generic [ref=e155]: 
+                      - text: Kanban Board
+                  - listitem [ref=e156]:
+                    - link " Social Feed" [ref=e157] [cursor=pointer]:
+                      - /url: social-feed.html
+                      - generic [ref=e158]: 
+                      - text: Social Feed
+                  - listitem [ref=e159]:
+                    - link " Search Results" [ref=e160] [cursor=pointer]:
+                      - /url: search-results.html
+                      - generic [ref=e161]: 
+                      - text: Search Results
+                - text:                                                                       
+          - generic [ref=e162]:
+            - link "" [ref=e163] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e164]: 
+            - generic [ref=e165]:
+              - generic [ref=e167]: 
+              - generic [ref=e168]:
+                - paragraph [ref=e169]: Current Plan
+                - paragraph [ref=e170]: Trail
+            - paragraph [ref=e171]: You have used 90% Credit.
+            - generic [ref=e173]:
+              - application "bar chart with 2 data series" [ref=e174]
+              - tooltip: ● ●
+            - link " Upgrade" [ref=e179] [cursor=pointer]:
+              - /url: pricing.html
+              - generic [ref=e180]: 
+              - text: Upgrade
+    - generic [ref=e181]:
+      - generic [ref=e182]:
+        - generic [ref=e183]:
+          - navigation "Breadcrumb" [ref=e185]:
+            - list [ref=e186]:
+              - listitem [ref=e187]:
+                - link " Home" [ref=e188] [cursor=pointer]:
+                  - /url: index.html
+                  - generic [ref=e189]: 
+                  - text: Home
+              - listitem [ref=e190]: /
+              - listitem [ref=e191]: Calendar
+          - button "Dropdown" [ref=e194] [cursor=pointer]:
+            - generic [ref=e195]: 
+            - text: Export
+        - generic [ref=e198]:
+          - generic [ref=e199]:
+            - generic [ref=e201]:
+              - button "Previous month" [ref=e202] [cursor=pointer]:
+                - img [ref=e203]: 
+              - heading "June 2026" [level=2] [ref=e204]
+              - button "Next month" [ref=e205] [cursor=pointer]:
+                - img [ref=e206]: 
+            - generic [ref=e208]:
+              - button "month" [pressed] [ref=e209] [cursor=pointer]
+              - button "week" [ref=e210] [cursor=pointer]
+              - button "day" [ref=e211] [cursor=pointer]
+            - generic [ref=e212]:
+              - button "Today" [ref=e213] [cursor=pointer]
+              - button "+ New Event" [ref=e214] [cursor=pointer]
+          - generic "June 2026" [ref=e215]:
+            - grid [ref=e217]:
+              - rowgroup [ref=e218]:
+                - row "Sunday Monday Tuesday Wednesday Thursday Friday Saturday" [ref=e222]:
+                  - columnheader "Sunday" [ref=e223]:
+                    - generic "Sunday" [ref=e225] [cursor=pointer]: Sun
+                  - columnheader "Monday" [ref=e226]:
+                    - generic "Monday" [ref=e228] [cursor=pointer]: Mon
+                  - columnheader "Tuesday" [ref=e229]:
+                    - generic "Tuesday" [ref=e231] [cursor=pointer]: Tue
+                  - columnheader "Wednesday" [ref=e232]:
+                    - generic "Wednesday" [ref=e234] [cursor=pointer]: Wed
+                  - columnheader "Thursday" [ref=e235]:
+                    - generic "Thursday" [ref=e237] [cursor=pointer]: Thu
+                  - columnheader "Friday" [ref=e238]:
+                    - generic "Friday" [ref=e240] [cursor=pointer]: Fri
+                  - columnheader "Saturday" [ref=e241]:
+                    - generic "Saturday" [ref=e243] [cursor=pointer]: Sat
+              - rowgroup [ref=e244]:
+                - generic [ref=e247]:
+                  - row "May 31, 2026 June 1, 2026 June 2, 2026 June 3, 2026 June 4, 2026 June 5, 2026 June 6, 2026" [ref=e249]:
+                    - gridcell "May 31, 2026" [ref=e250]:
+                      - generic "May 31, 2026" [ref=e253] [cursor=pointer]: "31"
+                    - gridcell "June 1, 2026" [ref=e254]:
+                      - generic "June 1, 2026" [ref=e257] [cursor=pointer]: "1"
+                    - gridcell "June 2, 2026" [ref=e258]:
+                      - generic "June 2, 2026" [ref=e261] [cursor=pointer]: "2"
+                    - gridcell "June 3, 2026" [ref=e262]:
+                      - generic "June 3, 2026" [ref=e265] [cursor=pointer]: "3"
+                    - gridcell "June 4, 2026" [ref=e266]:
+                      - generic "June 4, 2026" [ref=e269] [cursor=pointer]: "4"
+                    - gridcell "June 5, 2026" [ref=e270]:
+                      - generic "June 5, 2026" [ref=e273] [cursor=pointer]: "5"
+                    - gridcell "June 6, 2026" [ref=e274]:
+                      - generic "June 6, 2026" [ref=e277] [cursor=pointer]: "6"
+                  - row "June 7, 2026 June 8, 2026 June 9, 2026 June 10, 2026 June 11, 2026 June 12, 2026 June 13, 2026" [ref=e278]:
+                    - gridcell "June 7, 2026" [ref=e279]:
+                      - generic "June 7, 2026" [ref=e282] [cursor=pointer]: "7"
+                    - gridcell "June 8, 2026" [ref=e283]:
+                      - generic "June 8, 2026" [ref=e286] [cursor=pointer]: "8"
+                    - gridcell "June 9, 2026" [ref=e287]:
+                      - generic "June 9, 2026" [ref=e290] [cursor=pointer]: "9"
+                    - gridcell "June 10, 2026" [ref=e291]:
+                      - generic "June 10, 2026" [ref=e294] [cursor=pointer]: "10"
+                    - gridcell "June 11, 2026" [ref=e295]:
+                      - generic "June 11, 2026" [ref=e298] [cursor=pointer]: "11"
+                    - gridcell "June 12, 2026" [ref=e299]:
+                      - generic "June 12, 2026" [ref=e302] [cursor=pointer]: "12"
+                    - gridcell "June 13, 2026" [ref=e303]:
+                      - generic "June 13, 2026" [ref=e306] [cursor=pointer]: "13"
+                  - row "June 14, 2026 June 15, 2026 June 16, 2026 June 17, 2026 June 18, 2026 June 19, 2026 June 20, 2026" [ref=e307]:
+                    - gridcell "June 14, 2026" [ref=e308]:
+                      - generic "June 14, 2026" [ref=e311] [cursor=pointer]: "14"
+                    - gridcell "June 15, 2026" [ref=e312]:
+                      - generic "June 15, 2026" [ref=e315] [cursor=pointer]: "15"
+                    - gridcell "June 16, 2026" [ref=e316]:
+                      - generic "June 16, 2026" [ref=e319] [cursor=pointer]: "16"
+                    - gridcell "June 17, 2026" [ref=e320]:
+                      - generic "June 17, 2026" [ref=e323] [cursor=pointer]: "17"
+                    - gridcell "June 18, 2026" [ref=e324]:
+                      - generic "June 18, 2026" [ref=e327] [cursor=pointer]: "18"
+                    - gridcell "June 19, 2026" [ref=e328]:
+                      - generic "June 19, 2026" [ref=e331] [cursor=pointer]: "19"
+                    - gridcell "June 20, 2026" [ref=e332]:
+                      - generic "June 20, 2026" [ref=e335] [cursor=pointer]: "20"
+                  - row "June 21, 2026 June 22, 2026 June 23, 2026 June 24, 2026 June 25, 2026 June 26, 2026 June 27, 2026" [ref=e336]:
+                    - gridcell "June 21, 2026" [ref=e337]:
+                      - generic "June 21, 2026" [ref=e340] [cursor=pointer]: "21"
+                    - gridcell "June 22, 2026" [ref=e341]:
+                      - generic "June 22, 2026" [ref=e344] [cursor=pointer]: "22"
+                    - gridcell "June 23, 2026" [ref=e345]:
+                      - generic "June 23, 2026" [ref=e348] [cursor=pointer]: "23"
+                    - gridcell "June 24, 2026" [ref=e349]:
+                      - generic "June 24, 2026" [ref=e352] [cursor=pointer]: "24"
+                    - gridcell "June 25, 2026" [ref=e353]:
+                      - generic "June 25, 2026" [ref=e356] [cursor=pointer]: "25"
+                    - gridcell "June 26, 2026" [ref=e357]:
+                      - generic "June 26, 2026" [ref=e360] [cursor=pointer]: "26"
+                    - gridcell "June 27, 2026" [ref=e361]:
+                      - generic "June 27, 2026" [ref=e364] [cursor=pointer]: "27"
+                  - row "June 28, 2026 June 29, 2026 June 30, 2026 July 1, 2026 July 2, 2026 July 3, 2026 July 4, 2026" [ref=e365]:
+                    - gridcell "June 28, 2026" [ref=e366]:
+                      - generic "June 28, 2026" [ref=e369] [cursor=pointer]: "28"
+                    - gridcell "June 29, 2026" [ref=e370]:
+                      - generic "June 29, 2026" [ref=e373] [cursor=pointer]: "29"
+                    - gridcell "June 30, 2026" [ref=e374]:
+                      - generic "June 30, 2026" [ref=e377] [cursor=pointer]: "30"
+                    - gridcell "July 1, 2026" [ref=e378]:
+                      - generic "July 1, 2026" [ref=e381] [cursor=pointer]: "1"
+                    - gridcell "July 2, 2026" [ref=e382]:
+                      - generic "July 2, 2026" [ref=e385] [cursor=pointer]: "2"
+                    - gridcell "July 3, 2026" [ref=e386]:
+                      - generic "July 3, 2026" [ref=e389] [cursor=pointer]: "3"
+                    - gridcell "July 4, 2026" [ref=e390]:
+                      - generic "July 4, 2026" [ref=e393] [cursor=pointer]: "4"
+                  - row "July 5, 2026 July 6, 2026 July 7, 2026 July 8, 2026 July 9, 2026 July 10, 2026 July 11, 2026" [ref=e394]:
+                    - gridcell "July 5, 2026" [ref=e395]:
+                      - generic "July 5, 2026" [ref=e398] [cursor=pointer]: "5"
+                    - gridcell "July 6, 2026" [ref=e399]:
+                      - generic "July 6, 2026" [ref=e402] [cursor=pointer]: "6"
+                    - gridcell "July 7, 2026" [ref=e403]:
+                      - generic "July 7, 2026" [ref=e406] [cursor=pointer]: "7"
+                    - gridcell "July 8, 2026" [ref=e407]:
+                      - generic "July 8, 2026" [ref=e410] [cursor=pointer]: "8"
+                    - gridcell "July 9, 2026" [ref=e411]:
+                      - generic "July 9, 2026" [ref=e414] [cursor=pointer]: "9"
+                    - gridcell "July 10, 2026" [ref=e415]:
+                      - generic "July 10, 2026" [ref=e418] [cursor=pointer]: "10"
+                    - gridcell "July 11, 2026" [ref=e419]:
+                      - generic "July 11, 2026" [ref=e422] [cursor=pointer]: "11"
+      - contentinfo [ref=e423]:
+        - paragraph [ref=e424]: 2026 © Copyright Dreams AI Agent
+        - generic [ref=e425]:
+          - link "Docs" [ref=e426] [cursor=pointer]:
+            - /url: "#"
+          - generic [ref=e427]: /
+          - link "Purchase" [ref=e428] [cursor=pointer]:
+            - /url: "#"
+          - generic [ref=e429]: /
+          - link "FAQ" [ref=e430] [cursor=pointer]:
+            - /url: "#"
+          - generic [ref=e431]: /
+          - link "Support" [ref=e432] [cursor=pointer]:
+            - /url: "#"
+  - text:  Press to select  Press to select

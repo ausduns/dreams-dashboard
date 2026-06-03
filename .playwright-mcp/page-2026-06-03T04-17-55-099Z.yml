@@ -1,0 +1,355 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - button "" [ref=e6] [cursor=pointer]:
+            - generic [ref=e7]: 
+          - text: 
+          - generic [ref=e9]:
+            - textbox "Search Agents or Tools..." [ref=e10]
+            - button " K" [ref=e11] [cursor=pointer]:
+              - generic [ref=e12]: 
+              - text: K
+          - generic [ref=e13]:
+            - link "Dropdown" [ref=e14] [cursor=pointer]:
+              - /url: "#"
+              - text: AI Studio
+              - generic [ref=e15]: 
+            - text:     
+          - generic [ref=e16]:
+            - link "Dropdown" [ref=e17] [cursor=pointer]:
+              - /url: "#"
+              - text: AI Tools
+              - generic [ref=e18]: 
+            - text:     
+        - generic [ref=e19]:
+          - link " Upgrade" [ref=e20] [cursor=pointer]:
+            - /url: pricing.html
+            - generic [ref=e21]: 
+            - text: Upgrade
+          - button "" [ref=e23] [cursor=pointer]:
+            - generic [ref=e24]: 
+          - button "" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27]: 
+          - generic [ref=e28]:
+            - button "" [ref=e29] [cursor=pointer]:
+              - generic [ref=e30]: 
+            - text:            
+          - link "" [ref=e33] [cursor=pointer]:
+            - /url: chat.html
+            - generic [ref=e34]: 
+          - generic [ref=e36]:
+            - link "Dropdown" [ref=e37] [cursor=pointer]:
+              - /url: "#"
+              - img "user-image" [ref=e38]
+            - text:     
+    - complementary "Main navigation":
+      - generic [ref=e40]:
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - link "logo-small" [ref=e44] [cursor=pointer]:
+              - /url: index.html
+              - img "logo-small" [ref=e45]
+            - region "scrollable content" [ref=e50]:
+              - tablist [ref=e52]:
+                - listitem [ref=e53]:
+                  - tab "" [ref=e54] [cursor=pointer]:
+                    - generic [ref=e56]: 
+                  - tab "" [ref=e57] [cursor=pointer]:
+                    - generic [ref=e59]: 
+                - listitem [ref=e60]:
+                  - tab "" [ref=e61] [cursor=pointer]:
+                    - generic [ref=e63]: 
+                  - tab "" [ref=e64] [cursor=pointer]:
+                    - generic [ref=e66]: 
+                  - tab "" [ref=e67] [cursor=pointer]:
+                    - generic [ref=e69]: 
+                  - tab "" [ref=e70] [cursor=pointer]:
+                    - generic [ref=e72]: 
+                - listitem [ref=e73]:
+                  - tab "" [ref=e74] [cursor=pointer]:
+                    - generic [ref=e76]: 
+                  - tab "" [ref=e78] [cursor=pointer]:
+                    - generic [ref=e80]: 
+                  - tab "" [ref=e81] [cursor=pointer]:
+                    - generic [ref=e83]: 
+          - generic [ref=e84]:
+            - link "" [ref=e85] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e86]: 
+            - link "" [ref=e87] [cursor=pointer]:
+              - /url: login.html
+              - generic [ref=e88]: 
+        - generic [ref=e89]:
+          - generic [ref=e90]:
+            - generic [ref=e91]:
+              - link "logo" [ref=e92] [cursor=pointer]:
+                - /url: index.html
+                - img "logo" [ref=e93]
+              - text: 
+            - region "scrollable content" [ref=e98]:
+              - generic [ref=e100]:
+                - list [ref=e102]:
+                  - listitem [ref=e103]: Dashboard
+                  - listitem [ref=e104]:
+                    - link " AI Dashboard" [ref=e105] [cursor=pointer]:
+                      - /url: index.html
+                      - generic [ref=e106]: 
+                      - text: AI Dashboard
+                  - listitem [ref=e107]:
+                    - link " Analytics" [ref=e108] [cursor=pointer]:
+                      - /url: analytics-dashboard.html
+                      - generic [ref=e109]: 
+                      - text: Analytics
+                  - listitem [ref=e110]:
+                    - link " System Overview" [ref=e111] [cursor=pointer]:
+                      - /url: system-dashboard.html
+                      - generic [ref=e112]: 
+                      - text: System Overview
+                  - listitem [ref=e113]:
+                    - link " CRM" [ref=e114] [cursor=pointer]:
+                      - /url: crm-dashboard.html
+                      - generic [ref=e115]: 
+                      - text: CRM
+                  - listitem [ref=e116]:
+                    - link " Ecommerce" [ref=e117] [cursor=pointer]:
+                      - /url: ecommerce-dashboard.html
+                      - generic [ref=e118]: 
+                      - text: Ecommerce
+                  - listitem [ref=e119]:
+                    - link " Project" [ref=e120] [cursor=pointer]:
+                      - /url: project-dashboard.html
+                      - generic [ref=e121]: 
+                      - text: Project
+                  - listitem [ref=e122]:
+                    - link " HRM" [ref=e123] [cursor=pointer]:
+                      - /url: hrm-dashboard.html
+                      - generic [ref=e124]: 
+                      - text: HRM
+                  - listitem [ref=e125]:
+                    - link " Marketing" [ref=e126] [cursor=pointer]:
+                      - /url: marketing-dashboard.html
+                      - generic [ref=e127]: 
+                      - text: Marketing
+                  - listitem [ref=e128]: Apps
+                  - listitem [ref=e129]:
+                    - link " Projects" [ref=e130] [cursor=pointer]:
+                      - /url: projects.html
+                      - generic [ref=e131]: 
+                      - text: Projects
+                  - listitem [ref=e132]:
+                    - link " Chat 3" [ref=e133] [cursor=pointer]:
+                      - /url: chat.html
+                      - generic [ref=e134]: 
+                      - text: Chat
+                      - generic [ref=e135]: "3"
+                  - listitem [ref=e136]:
+                    - link " Calendar" [ref=e137] [cursor=pointer]:
+                      - /url: calendar.html
+                      - generic [ref=e138]: 
+                      - text: Calendar
+                  - listitem [ref=e139]:
+                    - link " Invoices 2" [ref=e140] [cursor=pointer]:
+                      - /url: invoices.html
+                      - generic [ref=e141]: 
+                      - text: Invoices
+                      - generic [ref=e142]: "2"
+                  - listitem [ref=e143]:
+                    - link " File Manager" [ref=e144] [cursor=pointer]:
+                      - /url: file-manager.html
+                      - generic [ref=e145]: 
+                      - text: File Manager
+                  - listitem [ref=e146]:
+                    - link " Notes" [ref=e147] [cursor=pointer]:
+                      - /url: notes.html
+                      - generic [ref=e148]: 
+                      - text: Notes
+                  - listitem [ref=e149]:
+                    - link " To Do 5" [ref=e150] [cursor=pointer]:
+                      - /url: todo.html
+                      - generic [ref=e151]: 
+                      - text: To Do
+                      - generic [ref=e152]: "5"
+                  - listitem [ref=e153]:
+                    - link " Kanban Board" [ref=e154] [cursor=pointer]:
+                      - /url: kanban-board.html
+                      - generic [ref=e155]: 
+                      - text: Kanban Board
+                  - listitem [ref=e156]:
+                    - link " Social Feed" [ref=e157] [cursor=pointer]:
+                      - /url: social-feed.html
+                      - generic [ref=e158]: 
+                      - text: Social Feed
+                  - listitem [ref=e159]:
+                    - link " Search Results" [ref=e160] [cursor=pointer]:
+                      - /url: search-results.html
+                      - generic [ref=e161]: 
+                      - text: Search Results
+                - text:                                                                       
+          - generic [ref=e162]:
+            - link "" [ref=e163] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e164]: 
+            - generic [ref=e165]:
+              - generic [ref=e167]: 
+              - generic [ref=e168]:
+                - paragraph [ref=e169]: Current Plan
+                - paragraph [ref=e170]: Trail
+            - paragraph [ref=e171]: You have used 90% Credit.
+            - generic [ref=e173]:
+              - application "bar chart with 2 data series" [ref=e174]
+              - tooltip: ● ●
+            - link " Upgrade" [ref=e179] [cursor=pointer]:
+              - /url: pricing.html
+              - generic [ref=e180]: 
+              - text: Upgrade
+    - generic [ref=e181]:
+      - generic [ref=e182]:
+        - generic [ref=e183]:
+          - navigation "Breadcrumb" [ref=e185]:
+            - list [ref=e186]:
+              - listitem [ref=e187]:
+                - link " Home" [ref=e188] [cursor=pointer]:
+                  - /url: index.html
+                  - generic [ref=e189]: 
+                  - text: Home
+              - listitem [ref=e190]: /
+              - listitem [ref=e191]: To Do List
+          - generic [ref=e192]:
+            - button "Dropdown" [ref=e194] [cursor=pointer]:
+              - generic [ref=e195]: 
+              - text: Export
+            - button " New Task" [ref=e196] [cursor=pointer]:
+              - generic [ref=e197]: 
+              - text: New Task
+        - generic [ref=e202]:
+          - generic [ref=e203]:
+            - heading "To Do List" [level=5] [ref=e204]
+            - generic [ref=e205]:
+              - paragraph [ref=e206]:
+                - generic [ref=e207]: 
+                - text: 05/16
+              - button "" [ref=e208] [cursor=pointer]:
+                - generic [ref=e209]: 
+          - generic [ref=e211]:
+            - generic [ref=e212]:
+              - checkbox "Draft Weekly Content Plan" [ref=e213]
+              - generic [ref=e214]: Draft Weekly Content Plan
+              - generic [ref=e216]:
+                - generic [ref=e217]:
+                  - heading "Draft Weekly Content Plan" [level=6] [ref=e218]
+                  - button "" [ref=e219] [cursor=pointer]:
+                    - generic [ref=e220]: 
+                - paragraph [ref=e221]: Outline topics, key points, and publishing schedule for the week.
+                - generic [ref=e222]:
+                  - generic [ref=e223]:
+                    - generic [ref=e224]: 
+                    - text: 3 tasks
+                  - generic [ref=e226]: Content
+                - button "" [ref=e227] [cursor=pointer]:
+                  - text: 
+                  - generic [ref=e229]: 
+                - generic [ref=e231]:
+                  - generic [ref=e233]:
+                    - checkbox "Check Dribbble & Behance trends" [checked] [ref=e234]
+                    - generic [ref=e235]: Check Dribbble & Behance trends
+                    - paragraph [ref=e236]: Check Dribbble & Behance trends
+                    - button "" [ref=e237] [cursor=pointer]:
+                      - generic [ref=e238]: 
+                  - generic [ref=e240]:
+                    - checkbox "Note reusable layout patterns" [ref=e241]
+                    - generic [ref=e242]: Note reusable layout patterns
+                    - paragraph [ref=e243]: Note reusable layout patterns
+                    - button "" [ref=e244] [cursor=pointer]:
+                      - generic [ref=e245]: 
+                  - generic [ref=e247]:
+                    - checkbox "Shortlist ideas for testing" [ref=e248]
+                    - generic [ref=e249]: Shortlist ideas for testing
+                    - paragraph [ref=e250]: Shortlist ideas for testing
+                    - button "" [ref=e251] [cursor=pointer]:
+                      - generic [ref=e252]: 
+            - generic [ref=e253]:
+              - img "user" [ref=e254]
+              - generic [ref=e255]: High
+          - generic [ref=e258]:
+            - generic [ref=e259]:
+              - checkbox "Explore New UI Design" [ref=e260]
+              - generic [ref=e261]: Explore New UI Design
+              - generic [ref=e263]:
+                - generic [ref=e264]:
+                  - heading "Explore New UI Design" [level=6] [ref=e265]
+                  - button "" [ref=e266] [cursor=pointer]:
+                    - generic [ref=e267]: 
+                - paragraph [ref=e268]: Research modern design patterns and save inspiration for future use.
+                - generic [ref=e269]:
+                  - generic [ref=e270]:
+                    - generic [ref=e271]: 
+                    - text: 3 tasks
+                  - generic [ref=e273]: Design
+                - button "" [ref=e274] [cursor=pointer]:
+                  - generic [ref=e276]: 
+                  - text: 
+                - text:   
+            - generic [ref=e277]:
+              - img "user" [ref=e278]
+              - generic [ref=e279]: Medium
+          - generic [ref=e282]:
+            - generic [ref=e283]:
+              - checkbox "Review 2026 Design Inspirations" [ref=e284]
+              - generic [ref=e285]: Review 2026 Design Inspirations
+              - generic [ref=e287]:
+                - generic [ref=e288]:
+                  - heading "Review 2026 Design Inspirations" [level=6] [ref=e289]
+                  - button "" [ref=e290] [cursor=pointer]:
+                    - generic [ref=e291]: 
+                - paragraph [ref=e292]: Analyze upcoming web design trends focusing on usability and AI-driven layouts.
+                - generic [ref=e293]:
+                  - generic [ref=e294]:
+                    - generic [ref=e295]: 
+                    - text: 3 tasks
+                  - generic [ref=e297]: Content
+                - button "" [ref=e298] [cursor=pointer]:
+                  - generic [ref=e300]: 
+                  - text: 
+                - text:   
+            - generic [ref=e301]:
+              - img "user" [ref=e302]
+              - generic [ref=e303]: High
+          - generic [ref=e306]:
+            - generic [ref=e307]:
+              - checkbox "Reset Daily Routine" [ref=e308]
+              - generic [ref=e309]: Reset Daily Routine
+              - generic [ref=e311]:
+                - generic [ref=e312]:
+                  - heading "Reset Daily Routine" [level=6] [ref=e313]
+                  - button "" [ref=e314] [cursor=pointer]:
+                    - generic [ref=e315]: 
+                - paragraph [ref=e316]: Optimize daily habits to improve productivity and focus.
+                - generic [ref=e317]:
+                  - generic [ref=e318]:
+                    - generic [ref=e319]: 
+                    - text: 3 tasks
+                  - generic [ref=e321]: Habits
+                - button "" [ref=e322] [cursor=pointer]:
+                  - generic [ref=e324]: 
+                  - text: 
+                - text:   
+            - generic [ref=e325]:
+              - img "user" [ref=e326]
+              - generic [ref=e327]: Low
+      - contentinfo [ref=e329]:
+        - paragraph [ref=e330]: 2026 © Copyright Dreams AI Agent
+        - generic [ref=e331]:
+          - link "Docs" [ref=e332] [cursor=pointer]:
+            - /url: "#"
+          - generic [ref=e333]: /
+          - link "Purchase" [ref=e334] [cursor=pointer]:
+            - /url: "#"
+          - generic [ref=e335]: /
+          - link "FAQ" [ref=e336] [cursor=pointer]:
+            - /url: "#"
+          - generic [ref=e337]: /
+          - link "Support" [ref=e338] [cursor=pointer]:
+            - /url: "#"
+  - text:  Press to select  Press to select
